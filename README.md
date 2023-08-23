@@ -1,6 +1,6 @@
 ## Battery_Level_Cursor
 
-🪫 Software concept for optical mouse battery level inside the mouse cursor.
+🪫 Software concept for indicating the optical mouse battery level inside the mouse cursor.
 
 ### CONCEPT
 
