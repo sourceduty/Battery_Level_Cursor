@@ -4,7 +4,9 @@
 
 ### CONCEPT
 
-Real-time battery level indication mouse cursor.
+🪫 Software concept for indicating the optical mouse battery level inside the mouse cursor.
+
+![Battery_Level_Cursor](https://github.com/sourceduty/Battery_Level_Cursor/assets/123030236/1fe41dbe-b639-4a35-9287-262c2eaa952c)
 
 ### REFERENCES
 
