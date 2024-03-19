@@ -6,7 +6,7 @@
 
 Real-time battery level indication mouse cursor.
 
-![Battery_Level_Cursor](https://github.com/sourceduty/Battery_Level_Cursor/assets/123030236/1fe41dbe-b639-4a35-9287-262c2eaa952c)
+![Battery Level Cursor](https://github.com/sourceduty/Battery_Level_Cursor/assets/123030236/422f6520-f6e6-41aa-a50e-0bfb052e6806)
 
 ### REFERENCES
 
